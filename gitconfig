@@ -15,6 +15,7 @@
 
 [core]
   pager = less -FRSX
+	editor = code --wait
 
 [diff]
     tool = default-difftool
